@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @danielpahxao
-- 👀 I’m interested in Javascript
+- 👋 Hi, I’m Daniel Paixão (Brazilian name)
+- 👀 I’m interested in Javascript and more...
 - 🌱 I’m currently learning Node.js & React
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me? By e-mail: danielpaixaodasilva@gmail.com
